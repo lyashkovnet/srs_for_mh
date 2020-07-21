@@ -1,4 +1,4 @@
-# Software requirements specification for marketplace "M&H"
+# SRS for the development of a mobile application "M&H"
 Данный репозиторий включает в себя следующие файлы:
 
 Как называется | Где находится
